@@ -24,4 +24,11 @@ This is the exact stack many junior AI engineers use today.
 
 Most Important Notes:
 - Python relies on Indentation, using whitespace, to define scope. Such as a scope of loops, functions and classes whereas other programming languages uses curly-brackets for this purpose.
-  
+
+Python Installation
+- First check python install in your system or not using below command.
+  python --version
+- If its not installed, You can download latest version of Python from its official website.
+  https://www.python.org/downloads/
+- Try to install the python. Once its installed you can again check the version of python.
+- Now, You need IDE to write programms. There are different IDEs you can download it.
