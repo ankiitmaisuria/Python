@@ -15,8 +15,7 @@ Python
 - Most recent version of python is Python 3.
 - There are different IDE for python such as Pycharm, Netbeans or Eclipse, Thonny, Visual Studio code, Jupyter Notebook, Google colab are largely uses.
 
-  | Purpose                   | Tool                                                                       |
-| ------------------------- | -------------------------------------------------------------------------- |
+ 
 | Main coding IDE           | [Visual Studio Code](https://code.visualstudio.com?utm_source=chatgpt.com) |
 | AI/Data Science notebooks | [Jupyter Notebook](https://jupyter.org?utm_source=chatgpt.com)             |
 | Cloud ML experiments      | [Google Colab](https://colab.research.google.com?utm_source=chatgpt.com)   |
