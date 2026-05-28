@@ -32,3 +32,8 @@ Python Installation
   https://www.python.org/downloads/
 - Try to install the python. Once its installed you can again check the version of python.
 - Now, You need IDE to write programms. There are different IDEs you can download it.
+
+- You can also write programms in text editor and save as .py which is python file extensions and run using command line using below command.
+  python filename.py
+
+
