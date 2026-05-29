@@ -37,14 +37,14 @@ Python Installation
   python filename.py
 
   Topics:
-  - Python Syntax
+  1. Python Syntax
     print("Hello Python") #Semicolons (Optional, Rarely used)
     You can still write print("Hi");Print("How are you");print("I am good, thanks");
     But
     print("Hi") Print("How are you") print("I am good, thanks")
     It will give SytaxError: Invalid Syntax
     Best Practice: Put each statement on its own line so your code is easy to understand.
-  - print()
+  2. print()
     function to display text or output values.
     Example : print("I am from Canada.")
               print('I born in India.')
@@ -53,6 +53,11 @@ Python Installation
     Notes:
     By default, print() function ends with new line.
     if you want to print multiple words on the same line, you can use the "end" parameter.
+  3. Comments
+    Comments can be used to explain the code. Comments can make code more redable.
+    Comments can be used to prevent execution when testing code.
+    Syntax: Comments starts with #, and Python will ignore them
+    Example: print("Hello, World!") #This is a comment
 
     Example:
             print("Hello World!", end=" ")
