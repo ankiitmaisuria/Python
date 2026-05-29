@@ -36,4 +36,27 @@ Python Installation
 - You can also write programms in text editor and save as .py which is python file extensions and run using command line using below command.
   python filename.py
 
+  Topics:
+  - Python Syntax
+    print("Hello Python") #Semicolons (Optional, Rarely used)
+    You can still write print("Hi");Print("How are you");print("I am good, thanks");
+    But
+    print("Hi") Print("How are you") print("I am good, thanks")
+    It will give SytaxError: Invalid Syntax
+    Best Practice: Put each statement on its own line so your code is easy to understand.
+  - print()
+    function to display text or output values.
+    Example : print("I am from Canada.")
+              print('I born in India.')
+    If we forget to put the text inside the quotes, Python will give a syntax error.
+
+    Notes:
+    By default, print() function ends with new line.
+    if you want to print multiple words on the same line, you can use the "end" parameter.
+
+    Example:
+            print("Hello World!", end=" ")
+            print("I will print on the sameline")
+    output: Hello World! I will print on the sameline
+
 
