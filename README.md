@@ -53,7 +53,7 @@ Python Installation
     Notes:
     By default, print() function ends with new line.
     if you want to print multiple words on the same line, you can use the "end" parameter.
-  3. Comments
+  3. comments
     Comments can be used to explain the code. Comments can make code more redable.
     Comments can be used to prevent execution when testing code.
     Syntax: Comments starts with #, and Python will ignore them
