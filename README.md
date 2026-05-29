@@ -67,10 +67,15 @@ Python Installation
 
   For multiline comments
   """
-  This is a comment
-  written in
+  This is a comment \n
+  written in 
   more than just one line
   """
   print("Hello, World")
+
+  4. Variables
+  5. Data Types
+  6. 
+  
 
 
