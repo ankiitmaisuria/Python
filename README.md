@@ -53,6 +53,7 @@ Python Installation
     Notes:
     By default, print() function ends with new line.
     if you want to print multiple words on the same line, you can use the "end" parameter.
+  
   3. comments
     Comments can be used to explain the code. Comments can make code more redable.
     Comments can be used to prevent execution when testing code.
@@ -63,5 +64,13 @@ Python Installation
             print("Hello World!", end=" ")
             print("I will print on the sameline")
     output: Hello World! I will print on the sameline
+
+  For multiline comments
+  """
+  This is a comment
+  written in
+  more than just one line
+  """
+  print("Hello, World")
 
 
