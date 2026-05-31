@@ -73,7 +73,7 @@ Python Installation
   """
   print("Hello, World")
 
-  4. [`Variables`](https://github.com/ankiitmaisuria/Python/tree/master/01_variables)
+  4. [Variables](https://github.com/ankiitmaisuria/Python/tree/master/01_variables)
   5. Data Types
   6. 
   
