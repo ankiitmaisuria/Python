@@ -1,5 +1,7 @@
 str = "This is the demo example of the String in Python. Python has a str type."
-str1 = "123"
+str1 = "1\t2\t3\t"
+str2 = "#######HEllo world#############"
+str3 = "   HI, I am from Canada     "
 print(type(str))
 print(len(str))
 print(str)
@@ -29,3 +31,17 @@ print(str.isascii())
 print(str.isdecimal())
 print(str.isprintable())
 print(str.title())
+print(str1.expandtabs())
+print(str.index("the"))
+print(str1.isidentifier())
+print(str2.lstrip("#"))
+print(str2.rstrip("#"))
+print(str2.replace("#","!",2))
+print(str.rfind("Python"))
+print(str.rindex("Python"))
+print(str.rjust(500,"P"))
+print(str.split("."))
+print(str.splitlines(True))
+print(str.swapcase())
+print(str2.zfill(50))
+print(str3.strip())
