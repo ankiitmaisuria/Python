@@ -78,6 +78,7 @@ Python Installation
   6. [Operators](https://github.com/ankiitmaisuria/Python/tree/master/03_operators)
   7. [String in Python](https://github.com/ankiitmaisuria/Python/tree/master/04_strings)
   8. [Decision-Making Statements](https://github.com/ankiitmaisuria/Python/tree/master/05_decision_making)
+  9. [Match Statement](https://github.com/ankiitmaisuria/Python/tree/master/06_match_statement)
   
 
 
