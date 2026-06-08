@@ -81,6 +81,7 @@ Python Installation
   9. [Match Statement](https://github.com/ankiitmaisuria/Python/tree/master/06_match_statement)
   10. [Loops](https://github.com/ankiitmaisuria/Python/tree/master/07_loops)
   11. [Range](https://github.com/ankiitmaisuria/Python/tree/master/08_range)
+  12. [Function](https://github.com/ankiitmaisuria/Python/tree/master/09_function)
   
 
 
