@@ -77,6 +77,7 @@ Python Installation
   5. [Data Types](https://github.com/ankiitmaisuria/Python/tree/master/02_data_types)
   6. [Operators](https://github.com/ankiitmaisuria/Python/tree/master/03_operators)
   7. [String in Python](https://github.com/ankiitmaisuria/Python/tree/master/04_strings)
+  8. [Decision-Making Statements](https://github.com/ankiitmaisuria/Python/tree/master/05_decision_making)
   
 
 
