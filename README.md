@@ -75,6 +75,7 @@ Python Installation
 
   4. [Variables](https://github.com/ankiitmaisuria/Python/tree/master/01_variables)
   5. [Data Types](https://github.com/ankiitmaisuria/Python/tree/master/02_data_types)
+  6. [Operators](https://github.com/ankiitmaisuria/Python/tree/master/03_operators)
   
   
 
